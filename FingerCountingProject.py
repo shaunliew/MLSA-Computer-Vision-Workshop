@@ -2,7 +2,7 @@ import cv2
 import time
 import os
 import handtrackingmodule as htm
-
+#push to github
 wCam, hCam = 640, 480
 cap = cv2.VideoCapture(0)  # webcam choice
 cap.set(3, wCam)  # set the width of camera
